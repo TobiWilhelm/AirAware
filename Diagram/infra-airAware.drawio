@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="Seite-1" id="8tJUKnwxXesYZZka1xeG">
-    <mxGraphModel dx="1050" dy="653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1132" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="321" y="341" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RWSJ3jAojdazfuhtvpwp-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d3g9o9u8re44ak.cloudfront.net/logo/ca02a169-0ba6-48a6-9963-7a5fefbdf62f/08460b35-1530-4455-aa0f-95ab75f4229f.png;" parent="1" vertex="1">
-          <mxGeometry x="284" y="147" width="44" height="44" as="geometry" />
+          <mxGeometry x="288" y="144" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="RWSJ3jAojdazfuhtvpwp-19" value="Map interface" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="617" y="246" width="160" height="50" as="geometry" />
